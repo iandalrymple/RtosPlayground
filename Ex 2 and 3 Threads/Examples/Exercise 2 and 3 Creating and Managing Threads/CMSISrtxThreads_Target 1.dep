@@ -1,0 +1,53 @@
+Dependencies for Project 'CMSISrtxThreads', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x56B4AF36)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\STM32F10x.h)(0x5825E12C)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5CE70200)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B75E071)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825E12C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5984B686)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board\Board_LED.h)(0x5877A88C)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Boards\Keil\MCBSTM32E\Common\LED_MCBSTM32E.c)(0x59EF48D6)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD-o .\led_mcbstm32e.o --omf_browse .\led_mcbstm32e.crf --depend .\led_mcbstm32e.d)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board\Board_LED.h)(0x5877A88C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B75E071)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617D1DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825E12C)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5CE70200)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825E12C)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x58AB41C8)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x54087E90)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD-o .\rtx_conf_cm.o --omf_browse .\rtx_conf_cm.crf --depend .\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5984B686)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B75E071)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x5984B686)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.c)(0x571F9FCA)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD-o .\gpio_stm32f10x.o --omf_browse .\gpio_stm32f10x.crf --depend .\gpio_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617D1DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825E12C)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5CE70200)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B75E071)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825E12C)
+F (RTE\Device\STM32F103RB\RTE_Device.h)(0x561664CE)()
+F (RTE\Device\STM32F103RB\startup_stm32f10x_md.s)(0x4F1ED6FC)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\startup_stm32f10x_md.lst --xref -o .\startup_stm32f10x_md.o --depend .\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103RB\system_stm32f10x.c)(0x4F1ED6FC)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825E12C)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5CE70200)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5B75E071)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0E12CA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825E12C)
